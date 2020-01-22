@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ml-blox",
+  "private_key_id": "b9a32dc8513f3a339f00cd2918423374331c9316",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQAfeLiEeva12d\nZZF6rKe3eiUAR3UR8/VgprfK5cJiXuO60gP+npoAy1mn5s8zQRPwpR5EyectJmRm\nxCcpRi0jh5FXHwD5CUy2v0dMkDtjv1lBnFDLTYGwjK7RzIFrmu4WU+ae/Je7uuMj\nogCGLtJ006Bf+v5MLewRI3FD3x3uwW8VP3cVqVJCfGShTVpHGar8BzBYN8iW723q\nkdo1oOPuC1S4QX32Xf+2DrSwMLqWW/EzcNjltdKySSKopoK9tVN+PD/ZVsValrNW\n3WNtuywt7706e8P3deuhcpOnCk+r4qmcDYUgmUMLoM8CBqWzR4Gt5lPEHIkt/pAI\nBG2Tm4WRAgMBAAECggEAAMB+fzeTxp6m+NtiZ8zjqK2nlx+B3OwpeDjQWZhdSBQl\njn6i970cpLqgmcoewWEx3Qa2WdpYEO7zAbcq/UmU/sxLrbmSMv1o9KMX17Fi/5ML\nGFxkEQWBS38AH/9Z4jRSnovvtIF2SZmIgzRWl666QVtlRlL6L3cQPz1mL0uJWGVw\njUoBezA/OBfhD7twBbYxy5HeP8tKvEYhSSBcJOJyIuJbvnUZjG5LnK+yCefcXmpe\nHwd4gATar9esnjHFInzfzZfgRWssrsKbwLrKd8tFR4RENHUxdoBmJr554PaNfJ9L\neaEZLk3Yrp/0NxtzT1Zn/lCy1Fw1ZFl/ILPNy+C1aQKBgQDtN/CsmjUXpQCbQFoa\n+MUVM2oFuS+0seW2RqbgY4oEfxDGdGG9o3EMzXTnwzCsoRLEE26XvlYUxmYkmVLB\n/2EqbC6QQPaRJFEuYuCk7zskL0FKaIw1Xwydqt2Q4v/7pwIeacpfeeSd1ct46JFw\nP0suMty889aQPDe+QpTrM9NIKQKBgQDgefevqcTLC3EVdVPqVrivbo6BEMt+tDq5\nAN0eVasGNYpTpmUAwj07U7Vmx3tKdhT6whekNhmSSvkXK7eBQEwDDc7F6TUfTsp+\nRynlPscdldrNWJ27MLCwWm+s6Asnd/GN2D6HOH76kXozUd+8LOC96NsVbaYfPfY8\nIMeO6cgfKQKBgQCbW3yS/fdxgc3Q36djbLNePCrejrbQp4WjB8h4wpf8c99fqY7t\nrOH4GYLL2ojBNkhdA8D1PmGP/5ObupJ5nTBcoTcpoHIbAmbsczNesZLREuW2vpu8\nxIA1rlanchNmE62Oj4hLWUBBomg8ykud8MXi/sqUMTm/gsCbKW3wUCO6aQKBgFo5\nC5GCNcO6bJBIYRsOEhsI36QGgRQDEpsrOrSnkB7lxBxNA8mjSIMg6QdPZEGQZmxH\nOMNarzp6gdWLT61Wj3amxRYM3rofrAnHRpKKgfNlONVSKcuEDXBEWSBw/5K0hdUS\nNkeZMIg7kpcv8DItA4OxJOVe9ecWu3J9ZlgNpM7JAoGAP3Xy3hCyeKZ7vRADKDhh\ne6D6/uiUrKsz1/FhSnMsIRxYU5U0uX3bTVukLR0FR1dWvZY1nctjiDaB8SvOeOqW\nG7YayG4T9Ehj/vrJGH2zPTq6ZxZH9hoEdBgzeUhWZ8qoyWMAMjmSEGuSRk2ItkCC\nKtcV+/jBmlwIwF4OrssvzdQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ml-blox@ml-blox.iam.gserviceaccount.com",
+  "client_id": "108110150734816539368",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ml-blox%40ml-blox.iam.gserviceaccount.com"
+}
