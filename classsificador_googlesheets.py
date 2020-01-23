@@ -21,10 +21,14 @@ import xlsxwriter
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
+print ("A planilha deve estar compartilhada com ml-blox@ml-blox.iam.gserviceaccount.com")
+print ("insira o nome do arquivo")
+nome = input(str())
+
 scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
 creds = ServiceAccountCredentials.from_json_keyfile_name("ml-blox.json",scope)
 client= gspread.authorize(creds)
-sheet = client.open("eu").sheet1
+sheet = client.open(nome).sheet1
 headers = sheet.row_values(1)
 classificar = sheet.col_values(1)
 
